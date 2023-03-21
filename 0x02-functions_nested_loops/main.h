@@ -8,3 +8,4 @@ int _abs();
 int print_last_digit();
 void jack_bauer();
 void times_table();
+int add();
