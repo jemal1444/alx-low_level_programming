@@ -7,10 +7,9 @@
 * @day: day of month
 * Return: day of year
 */
-int convert_day();
+
 int convert_day(int month, int day)
 {
-	int convert_day();
     switch (month)
     {
         case 2:
@@ -51,3 +50,4 @@ int convert_day(int month, int day)
     }
     return (day);
 }
+

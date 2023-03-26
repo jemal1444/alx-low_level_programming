@@ -9,7 +9,6 @@
 
 int main(void)
 {
-    int convert_day();
     int month;
     int day;
     int year;
@@ -26,3 +25,4 @@ int main(void)
 
     return (0);
 }
+
